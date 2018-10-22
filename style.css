@@ -1,0 +1,21 @@
+body {
+
+	background-image: url(background.jpg);
+}
+
+.button{
+	display: flex;
+	 margin-top: 505px;
+	 margin-left: 46.5%;
+	 background-color: silver;
+	 text-transform: uppercase;
+
+
+}
+
+
+.demons{ font-family: fantasy;
+	text-align: center;
+	color: silver;
+	}
+
